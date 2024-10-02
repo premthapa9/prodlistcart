@@ -91,7 +91,7 @@ const SingleItem = ({
         </button>
       </div>
       <div className="mt-5">
-        <p className="text-mRose50">{category}</p>
+        <p className="text-gray-500">{category}</p>
         <h2 className="font-bold text-gray-400">{name}</h2>
         <h3 className="text-mRed font-bold">${price}</h3>
       </div>
